@@ -74,6 +74,19 @@ analytics:
   google:
     tracking_id          :
 
+# Added to make _single layout the default layout for posts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # Site Author
 author:
