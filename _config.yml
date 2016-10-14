@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "The Jungle Book"
+title                    : "Robert Leon"
 title_separator          : "-"
 name                     : "Robert Leon"
 description              : "Thoughts on entrepreneurship, development, and making mistakes."
 url                      : "https://royallion.github.io"
-baseurl                  : "/blog"
+baseurl                  : #"/blog"
 repository               : "royallion/royallion.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -90,11 +90,11 @@ defaults:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Robert Ray"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Thinker. Builder. Seeker."
+  location         : "Little Rock, Arkansas"
+  email            : "robert@royallionllc.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "github.com/royallion"
   google_plus      :
   keybase          :
   instagram        :
